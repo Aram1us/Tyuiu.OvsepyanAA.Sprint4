@@ -9,13 +9,13 @@ namespace Tyuiu.OvsepyanAA.Sprint4.Task2.V12
             Random rnd = new Random();
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #3 | Выполнилa: Буянова В. И. | СМАРТб-24-1";
+            Console.Title = "Спринт #3 | Выполнилa: Овсепян А.А | СМАРТб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Операции сравнения                                                *");
             Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант #12                                                             *");
-            Console.WriteLine("* Выполнилa: Буянова В. И. | СМАРТб-24-1                                  *");
+            Console.WriteLine("* Выполнилa: Овсепян А.А | СМАРТб-24-1                                  *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Дан одномерный целочисленный массив на 14 элементов заполненный         *");
