@@ -1,6 +1,8 @@
-﻿namespace Tyuiu.OvsepyanAA.Sprint4.Task5.V2.Lib
+﻿using tyuiu.cources.programming.interfaces.Sprint4;
+
+namespace Tyuiu.OvsepyanAA.Sprint4.Task5.V2.Lib
 {
-    public class Class1
+    public class DataService
     {
 
     }
